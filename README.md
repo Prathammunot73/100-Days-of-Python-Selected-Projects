@@ -1,252 +1,188 @@
-\# 100 Days of Python – Selected Projects
+# 🐍 100 Days of Python – Selected Projects
 
+<p align="center">
+  A collection of selected Python projects built during my journey through
+  <strong>100 Days of Code: The Complete Python Pro Bootcamp</strong> by Angela Yu.
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas-orange?logo=pandas" alt="Pandas">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%20%7C%20Plotly-green" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Automation-Python-yellow" alt="Automation">
+  <img src="https://img.shields.io/badge/GUI-Tkinter-purple" alt="GUI">
+</p>
 
-A collection of selected Python projects developed during my learning journey through the \*\*100 Days of Code: The Complete Python Pro Bootcamp\*\* by Angela Yu.
+---
 
+## 📌 About This Repository
 
+This repository contains selected projects developed throughout my **100 Days of Python** learning journey.
 
-This repository brings together selected projects that demonstrate my practical understanding of Python programming, data analysis, APIs, automation, GUI development, and game development.
+Rather than uploading every exercise from the course, I have selected projects that demonstrate practical skills in:
 
+- 🐍 Python programming
+- 📊 Data analysis & visualization
+- 🤖 Automation
+- 🌐 API integration
+- 🖥️ GUI development
+- 🎮 Game development
+- 📈 Machine learning & regression
+- 🧩 Object-oriented programming
 
+The projects range from data-driven analysis and machine learning models to automation tools, desktop applications, and games.
 
-\## 📂 Projects
+---
 
+## 🚀 Projects
 
+### 📊 1. Nobel Prize Analysis
 
-\### 1. Nobel Prize Analysis
+Exploration and analysis of Nobel Prize winners using Python and data analysis techniques.
 
-Data analysis and visualization of Nobel Prize winners using Python and Pandas.
+**Technologies:** Python · Pandas · Matplotlib · Seaborn · Data Analysis
 
+👉 [View Project](./nobel-prize-analysis)
 
+---
 
-\*\*Skills:\*\* Python, Pandas, Matplotlib, Seaborn, Data Analysis
+### 📈 2. Google Trends Data Visualization
 
+Analysis of Google search trends and visualization of patterns using real-world data.
 
+**Technologies:** Python · Pandas · Matplotlib · Plotly · Data Visualization
 
-\[View Project](./nobel-prize-analysis)
+👉 [View Project](./google-trends-data-visualization)
 
+---
 
+### 📉 3. Stock Trading News Alert
 
-\---
+An automation project that monitors stock price movements and retrieves relevant financial news.
 
+**Technologies:** Python · APIs · JSON · HTTP Requests · Automation
 
+👉 [View Project](./stocktrading-news-alert)
 
-\### 2. Google Trends Data Visualization
+---
 
-Exploration of Google search trends and their relationship with real-world data using data visualization techniques.
+### 🃏 4. Flash Card Project
 
+A desktop language-learning application that helps users learn French vocabulary through interactive flash cards.
 
+**Technologies:** Python · Tkinter · Pandas · GUI Development
 
-\*\*Skills:\*\* Python, Pandas, Matplotlib, Plotly, Data Visualization
+👉 [View Project](./flash-card-project)
 
+---
 
+### 🎮 5. Pong Game
 
-\[View Project](./google-trends-data-visualization)
+A classic Pong game developed using Python's Turtle graphics library and object-oriented programming concepts.
 
+**Technologies:** Python · Turtle · OOP · Game Development
 
+👉 [View Project](./pong-game)
 
-\---
+---
 
+### 🔐 6. Password Manager
 
+A desktop password manager application that generates and stores passwords through a graphical user interface.
 
-\### 3. Stock Trading News Alert
+**Technologies:** Python · Tkinter · File Handling · GUI Development
 
-An automation project that monitors stock price movements and retrieves relevant news articles.
+👉 [View Project](./password-manager)
 
+---
 
+### 🏋️ 7. Workout Tracker
 
-\*\*Skills:\*\* Python, APIs, Automation, JSON, HTTP Requests
+An automation project that records workout activities using an external API.
 
+**Technologies:** Python · APIs · HTTP Requests · Automation
 
+👉 [View Project](./workout-tracker)
 
-\[View Project](./stocktrading-news-alert)
+---
 
-
-
-\---
-
-
-
-\### 4. Flash Card Project
-
-A language-learning flash card application that helps users learn French vocabulary.
-
-
-
-\*\*Skills:\*\* Python, Tkinter, Pandas, GUI Development
-
-
-
-\[View Project](./flash-card-project)
-
-
-
-\---
-
-
-
-\### 5. Pong Game
-
-A classic Pong game developed using Python's Turtle graphics library.
-
-
-
-\*\*Skills:\*\* Python, Turtle, Object-Oriented Programming, Game Development
-
-
-
-\[View Project](./pong-game)
-
-
-
-\---
-
-
-
-\### 6. Password Manager
-
-A desktop password manager application with a graphical user interface for generating and storing passwords.
-
-
-
-\*\*Skills:\*\* Python, Tkinter, GUI Development, File Handling
-
-
-
-\[View Project](./password-manager)
-
-
-
-\---
-
-
-
-\### 7. Workout Tracker
-
-An automation project that records workout information using an external API.
-
-
-
-\*\*Skills:\*\* Python, APIs, HTTP Requests, Automation
-
-
-
-\[View Project](./workout-tracker)
-
-
-
-\---
-
-
-
-\### 8. Flight Deals Finder
+### ✈️ 8. Flight Deals Finder
 
 An application that searches for flight deals using APIs and sends notifications when suitable deals are found.
 
+**Technologies:** Python · APIs · JSON · OOP · Automation
 
+👉 [View Project](./flightdeals-finder)
 
-\*\*Skills:\*\* Python, APIs, Automation, JSON, OOP
+---
 
+### 🐍 9. Snake Game
 
+A classic Snake game developed using Python's Turtle graphics library with object-oriented programming.
 
-\[View Project](./flightdeals-finder)
+**Technologies:** Python · Turtle · OOP · Game Development
 
+👉 [View Project](./snake-game)
 
+---
 
-\---
+### 🏠 10. House Price Prediction
 
+A multivariable regression project that analyzes housing data and builds a model to predict property prices.
 
+The project includes exploratory data analysis, visualization, multivariable linear regression, log transformation, model evaluation, residual analysis, and property-value prediction.
 
-\### 9. Snake Game
+**Technologies:** Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupyter Notebook
 
-A classic Snake game developed using Python's Turtle graphics library.
+👉 [View Project](./house-price-prediction)
 
+---
 
+## 🛠️ Skills & Technologies
 
-\*\*Skills:\*\* Python, Turtle, Object-Oriented Programming, Game Development
+| Category | Technologies |
+|----------|--------------|
+| **Programming** | Python |
+| **Data Analysis** | Pandas, NumPy |
+| **Data Visualization** | Matplotlib, Seaborn, Plotly |
+| **Machine Learning** | Scikit-learn, Linear Regression |
+| **APIs** | REST APIs, JSON, HTTP Requests |
+| **Automation** | Python Automation |
+| **GUI Development** | Tkinter |
+| **Game Development** | Turtle |
+| **Programming Concepts** | OOP, File Handling |
+| **Environment** | Jupyter Notebook, PyCharm |
 
+---
 
+## 📚 Learning Journey
 
-\[View Project](./snake-game)
+These projects are part of my learning journey through:
 
+**100 Days of Code: The Complete Python Pro Bootcamp**
 
+**Instructor:** Angela Yu
 
-\---
+The purpose of this repository is to document my progress while building practical projects and strengthening my Python programming, data analysis, automation, and problem-solving skills.
 
+---
 
+## 📈 Progress
 
-\## 🛠️ Technologies \& Skills
+This repository will continue to grow as I progress through the course.
 
+New projects will be added selectively based on their relevance, complexity, and value as portfolio projects.
 
+---
 
-\- \*\*Python\*\*
+## 👨‍💻 About Me
 
-\- \*\*Object-Oriented Programming\*\*
+**Pratham Munot**
 
-\- \*\*Data Analysis\*\*
+B.Tech – Artificial Intelligence & Data Science
 
-\- \*\*Data Visualization\*\*
+Interested in **Artificial Intelligence, Data Science, Machine Learning, Python, and Data Analytics**.
 
-\- \*\*APIs \& REST APIs\*\*
+---
 
-\- \*\*Automation\*\*
-
-\- \*\*GUI Development with Tkinter\*\*
-
-\- \*\*Pandas\*\*
-
-\- \*\*Matplotlib\*\*
-
-\- \*\*Plotly\*\*
-
-\- \*\*Turtle Graphics\*\*
-
-\- \*\*File Handling\*\*
-
-\- \*\*JSON\*\*
-
-\- \*\*HTTP Requests\*\*
-
-
-
-\## 🎯 Purpose
-
-
-
-The purpose of this repository is to document my hands-on Python learning journey and showcase selected projects that demonstrate practical programming and problem-solving skills.
-
-
-
-\## 📚 Course
-
-
-
-These projects were developed as part of my learning journey through:
-
-
-
-\*\*100 Days of Code: The Complete Python Pro Bootcamp\*\*  
-
-by \*\*Angela Yu\*\*
-
-
-
-\## 👨‍💻 Author
-
-
-
-\*\*Pratham Munot\*\*
-
-
-
-B.Tech – Artificial Intelligence \& Data Science
-
-
-
-\---
-
-
-
-⭐ Feel free to explore the individual projects to see the code, implementation, and documentation.
-
+⭐ If you find any of the projects interesting, feel free to explore the individual project folders.
