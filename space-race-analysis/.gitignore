@@ -1,0 +1,37 @@
+
+## `.gitignore`
+
+For this project, keep it simple:
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Environment Variables
+.env
+.env.*
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Log Files
+*.log
+
+# Temporary Files
+temp/
+tmp/
