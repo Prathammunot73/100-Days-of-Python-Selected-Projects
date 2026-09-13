@@ -1,4 +1,3 @@
-````markdown
 # 🐍 100 Days of Python – Selected Projects
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
