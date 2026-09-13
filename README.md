@@ -173,13 +173,10 @@ Analysed fatal police shooting data along with demographic and socioeconomic dat
 
 ## 📊 Learning Journey
 
-These projects are part of my learning journey through: 100 Days of Code: The Complete Python Pro Bootcamp
-
-Instructor: Angela Yu
-
-The purpose of this repository is to document my progress while building practical projects and strengthening my Python programming,
-data analysis, automation, and problem-solving skills
-````
+- Started with **Python programming, OOP, APIs, and automation** through hands-on projects.
+- Progressed into **Data Analysis, Data Cleaning, Visualization, and Machine Learning** using real-world datasets.
+- Currently expanding my skills in **Machine Learning, NLP, Deep Learning, AI, and Generative AI**.
+---
 
 ## 📈 Progress
 
