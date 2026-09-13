@@ -234,5 +234,3 @@ This repository contains selected projects from the course.
 ---
 
 ⭐ If you find this repository useful, feel free to explore the individual projects.
-
-```
